@@ -1,1 +1,13 @@
-
+{
+  "type": "service_account",
+  "project_id": "servinf-administracion-prd",
+  "private_key_id": "43105330bf2b08a2af89c051a7c9b0a9d802746f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK6X0mNT3yvp9C\nI9J7mS/ix4PhKqFkFlw1a5bp0Q9TZR6c2EM/e2otaOKEjfOIKT2B3vJyTTKqVhTA\n8tO1ur9uUaWTOGViVFQr7RtebkPm6bHYUu9jsCYzXsPNZgnbt/aa06Muo/x17ECV\nyAQy9sETYpM5wdhSt/jxYKySoK8WvX5zudSg/z1gQKtKizBhT1gwAKrBi9ETcGfo\n01Fg+ISVs25+QwVp88keZa800Q8jBY/dre6iGoo4x9z+Fqi1ijYWzls4LJTOmI8/\nrbyX53K3pKe+TX+gvnNBCnfgpBSn4xtCkL8UeZn04ZSkmijWZNCGr8Z+uFwlC4zV\nKQ7l6P9FAgMBAAECggEAAqOGzknJE56uqvd4Z3AUuIH/YwBoFzstNeqi/mWKxjPr\nuSlyJ8UiYaFaRozqQejGDg16r1e84zcylqxxv5rEZVMLt5PMkNdLISdVDvN87D0c\nx7F2oy5M+qe1q5oW0/QM41ZzlMLALwWEdNVO5Y9wfefg4e7nQDnqJUHlUDDXULul\nbPx6MNd+wSEWp0heBgpeIgtjzckJSBKiyyCFiGRD3pa/GEC+b4V8qPeLh6zJk95F\nXM7EnxMZ/CXfm1JynPMRk9q4d/cFpCw5bQfcDSQC662GoVsb7pnZg27hEPSe0ZtM\n4kjgXu652arBOfj0VJQkpeQxsfDF1HwEcpvZCbkCUQKBgQDnf3HzOrAWGkbr2z79\nO5wn7KI74SG6mpT4ivEkRVh2SPrAkkUmoaJLsex0o2JioCwKZpIQ+5rtHsfPpUYS\nkRttdOsJGaL8E5bTff3hlBgwm1vNhObyaA/V8z3YAvSTDeBvrgLPmoFTbBTAua1p\n3a8TpT4bX3hd7lQ3/x/fOslrTQKBgQDgY39YkWgfQmsWJbeS9co7TZungsNg0I6d\nC1qCrFCYjD+f41RSFC91xzDfn3icQtDf79o0tIyLjhYWGV63EFp3lqsBFH6Z4+GH\n2WW0s2Qsj3Wy5PUoiKnGL7G9zXWivbxNfQfSqi8KsUTGWXDI/Zt0NrapQ0EQLOqd\nfPQmRN232QKBgC8g1PPteLenNdUCV3p6TjoahJSoKpOwsK9AqgL2UyIRjWry3D0X\nHtFGMZs1P+xQK2cappXqgwnPAGKXhQJ2pBzOdqLtoy6qVkRMHAl2es46cqAOdG3Z\nHZAy6t41C9F8O7rAtDXLgJSZJkhuBI3O4bugIlq0Pu7wfBjCSZzKfQLpAoGAQMMW\nxxY4igUeaSb7o7PC6XjNuvwXrcKj1pmnRt266TxZRKlU9deTlxeleHVLVzZFmMxe\nGyYdBk48+6XY21ch9TAMLOSgYYQO3KmXHB9Gg0Hog3hndYp0DZpIX3KESDMgvPCg\nKGIr75cYNXMtBSWFD3aXI6Ugiy2bjVa6FK19nIkCgYEAiEyrdS/mu8lPIx4uXAFn\n24EPWevv3QN7WJ4sSKiXDn4l0r4QDZQgmGShhWTuB6OzZQZcA+y2Ww6w3m2AnvGq\nURAGIBudr7IzvqiaQFzfB2pBdPaXavBnTDAGqdHD7PJy11gowgZYMUKlV0RoXglP\nwkoUUtfS8LiT2pRybzO2kM8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "borrar-git-hub@servinf-administracion-prd.iam.gserviceaccount.com",
+  "client_id": "106006125095907144983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/borrar-git-hub%40servinf-administracion-prd.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
